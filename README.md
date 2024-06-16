@@ -23,4 +23,10 @@
 
 ## Cкриншот дашборда
 
-![Задание2](https://github.com/SSitkarev/1.1-kubectl/blob/main/img/2.jpg)
+![Задание2](https://github.com/SSitkarev/1.1-kubectl/blob/main/img/3.jpg)
+
+![Задание2](https://github.com/SSitkarev/1.1-kubectl/blob/main/img/4.jpg)
+
+![Задание2](https://github.com/SSitkarev/1.1-kubectl/blob/main/img/5.jpg)
+
+![Задание2](https://github.com/SSitkarev/1.1-kubectl/blob/main/img/6.jpg)
